@@ -8,7 +8,8 @@ npm start-dev :: runs webpack -w and nodemon
 ## Setup
 
 npm install
-npm start
+npm run start-dev
+
 
 # Clean house
 
